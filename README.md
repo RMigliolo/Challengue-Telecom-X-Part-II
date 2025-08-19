@@ -57,69 +57,69 @@ Dividiendo los datos entre entrenamiento, validación y prueba
 
 Análisis dirigido
 
-Tiempo de contrato vs Cancelación
+-Tiempo de contrato vs Cancelación
 
-Distribución de Gasto total vs Cancelación
+-Distribución de Gasto total vs Cancelación
 
-Tiempo de contrato vs Gasto total
+-Tiempo de contrato vs Gasto total
 
 Tipos de modelos y su selección para el proyecto
 
-Diferencias entre modelos de Regresión y Clasificación
+-Diferencias entre modelos de Regresión y Clasificación
 
-Selección del modelo
+-Selección del modelo
 
 Ajustando modelos
 
-Modelo de referencia
+-Modelo de referencia
 
-Árboles de decisión
+-Árboles de decisión
 
-Decision Tree
+ -Decision Tree
 
-Probando el modelo Decision Tree
+ -Probando el modelo Decision Tree
 
-Random Forest
+ -Random Forest
 
-Probando el modelo Random Forest
+ -Probando el modelo Random Forest
 
-Modelos basados en distancia
+-Modelos basados en distancia
 
-KNN (k-Nearest Neighbors)
+ -KNN (k-Nearest Neighbors)
 
-Probando el modelo KNN
+ -Probando el modelo KNN
 
 Informes de métricas
 
-Curva ROC
+-Curva ROC
 
-Curva Precision-Recall
+-Curva Precision-Recall
 
-Comparación de curvas ROC entre modelos
+-Comparación de curvas ROC entre modelos
 
 Feature importances (atributos más importantes del modelo)
 
 Escogiendo y serializando el mejor modelo
 
-Evaluamos la tasa de acierto de los modelos
+-Evaluamos la tasa de acierto de los modelos
 
-Serializando los modelos
+-Serializando los modelos
 
 Conclusión
 
-Modelos de Clasificación evaluados
+-Modelos de Clasificación evaluados
 
-Comparación de Modelos.
+-Comparación de Modelos.
 
-Análisis de curvas
+-Análisis de curvas
 
-Curva Precision-Recall
+  -Curva Precision-Recall
 
-Curva ROC
+  -Curva ROC
 
-Principales factores que influyen en la cancelación
+-Principales factores que influyen en la cancelación
 
-Estrategias de retención
+-Estrategias de retención
 
 
 📁[DATOS UTILIZADOS](#Datos-utilizados)
