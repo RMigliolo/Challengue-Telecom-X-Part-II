@@ -1,7 +1,7 @@
 # Challengue-Telecom-X-Part-II
 Tercer Challengue de la formación en Data Science 
 
-# Challengue-Telecom-X-
+# Challengue-Telecom-X-Part II
 Segundo desafío en Data Science
 
 <img width="5760" height="1728" alt="BANNER TELECOM X PART 1" src="https://github.com/user-attachments/assets/547a24a6-f0f2-46b6-97fb-374a0ff659e3" />
