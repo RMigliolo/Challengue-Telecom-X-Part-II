@@ -45,9 +45,9 @@ Cargar el archivo CSV que contiene los datos tratados anteriormente
 
 Eliminar columnas irrelevantes
 
-Revisar los valores de columnas codependientes
+-Revisar los valores de columnas codependientes
 
-Volver a los valores categóricos
+-Volver a los valores categóricos
 
 Transformar las variables categóricas a formato numérico
 
