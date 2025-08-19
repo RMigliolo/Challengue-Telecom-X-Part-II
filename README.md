@@ -39,10 +39,52 @@ Desarrollo Versión 1.0
 
 3 Evasión según permanencia y edad
 
+📁[TABLA DE CONTENIDO](#Tabla-de-contenido)
+
+Cargar el archivo CSV que contiene los datos tratados anteriormente
+Eliminar columnas irrelevantes
+Revisar los valores de columnas codependientes
+Volver a los valores categóricos
+Transformar las variables categóricas a formato numérico
+Verificar la proporción de cancelación (Churn)
+Dividiendo los datos entre entrenamiento, validación y prueba
+Análisis dirigido
+Tiempo de contrato vs Cancelación
+Distribución de Gasto total vs Cancelación
+Tiempo de contrato vs Gasto total
+Tipos de modelos y su selección para el proyecto
+Diferencias entre modelos de Regresión y Clasificación
+Selección del modelo
+Ajustando modelos
+Modelo de referencia
+Árboles de decisión
+Decision Tree
+Probando el modelo Decision Tree
+Random Forest
+Probando el modelo Random Forest
+Modelos basados en distancia
+KNN (k-Nearest Neighbors)
+Probando el modelo KNN
+Informes de métricas
+Curva ROC
+Curva Precision-Recall
+Comparación de curvas ROC entre modelos
+Feature importances (atributos más importantes del modelo)
+Escogiendo y serializando el mejor modelo
+Evaluamos la tasa de acierto de los modelos
+Serializando los modelos
+Conclusión
+Modelos de Clasificación evaluados
+Comparación de Modelos
+Análisis de curvas
+Curva Precision-Recall
+Curva ROC
+Principales factores que influyen en la cancelación
+Estrategias de retención
 
 📁[DATOS UTILIZADOS](#Datos-utilizados)
 
-TelecomX_Data.json
+datos_churn_filtrados.csv
 
 * [Tecnologías utilizadas](#Bibliotecas-utilizadas)
 
